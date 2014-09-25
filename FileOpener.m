@@ -7,7 +7,6 @@
 //
 
 #import "FileOpener.h"
-#import "AppDelegate.h"
 
 @implementation FileOpener
 @synthesize docInteractionController;
